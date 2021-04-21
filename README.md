@@ -9,7 +9,8 @@ Günlük, haftalık planlar yapıp bunları takip etme aşamasında kimi sadece 
 
 ### Proje Hakkında
 
-Bu basit to-do uygulamasında input'tan aldığımız ifade todo list'e ekleniyor. TodoList component'i "todos" prop'uyla aldığı array'i listeliyor. Her bir liste elemanını TodoIteme component'i temsil ediyor.  
+Bu basit to-do uygulamasında input'tan aldığımız ifade todo list'e ekleniyor. TodoList component'i "todos" prop'uyla aldığı array'i listeliyor. Her bir liste elemanını TodoIteme component'i temsil ediyor. 
+  
 ---  
   
   ![gif](/readme.gif)
